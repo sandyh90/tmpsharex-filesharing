@@ -34,7 +34,7 @@
 APP_NAME=TMPShareX
 APP_ENV=local
 APP_KEY=
-APP_DEBUG=true
+APP_DEBUG=false
 APP_URL=http://localhost
 
 #--------------------------------------------------------------------
