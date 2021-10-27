@@ -14,7 +14,7 @@
 
 ## Limitation
 
--   Upload become error if upload more than 2GB, For now i suggested you limit upload under 1 - 2 GB [Still Search Issue].
+-   Upload become error if upload more than 2GB Due problem from library, For now i suggested you limit upload under 3 GB [Still Search Issue].
 -   Upload chunk use a lot cpu usage and sometime memory usage too.
 -   Merge chunk upload slow and triggering max execution time limit PHP **[For now temporary patched by ini_set]**.
 
