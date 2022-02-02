@@ -79,10 +79,6 @@ SESSION_LIFETIME=120
 ![Screenshot 2021-10-21 at 20-17-59 My Files](https://user-images.githubusercontent.com/30236529/138286290-ccefb6c5-c2bc-42a5-97f7-429fc9912570.png)
 ![Screenshot 2021-10-21 at 20-17-47 User Settings](https://user-images.githubusercontent.com/30236529/138286306-3ccf1349-19b9-4ea4-a2b0-a30e6b5df12c.png)
 
-Ingin mencoba aplikasi web ini silakan kunjungi
-
-[Demo Web](#)
-
 ## Change Log
 
 ### 10-21-2021
